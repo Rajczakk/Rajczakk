@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Rajczakk
+- 👀 I’m interested in ...
+   C#, Minecraft plugins, python sripts 
+- 🌱 I’m currently learning ...
+   C#, C++ and python
+- 📫 How to reach me ...
+  
+
+hello
